@@ -1,3 +1,5 @@
+![UNFOCUSED Demo](demo.gif)
+
 **[UN]FOCUSED** is a interactive C++ code poem that models the daily internal mechanics of living with ADHD[cite: 2]. By mapping core computer science concepts—concurrency, context switches, stack allocation, and memory disorder—to human executive dysfunction, the program translates abstract psychological struggles into tangible, terminal-based execution behavior[cite: 1, 2].
 
 Where the outside world sees laziness or distraction, this project uses code to demonstrate the constant, exhausting background friction of a brain fighting to function[cite: 2].
